@@ -2,7 +2,7 @@
 
 - ⚡ I'm Sina Ebrahimi, a 29 y/o network solution specialist and researcher from Tehran, Iran.
 
-- 🌱 I’m currently learning deep about the SDN technology, from controllers and their applications to the on-switch drivers and NOSes which support SDN interfaces.
+- 🌱 I’m currently learning about SDN technology in more depth, from controllers and their applications to the on-switch drivers and NOSes which support SDN interfaces.
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/)
 -  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
