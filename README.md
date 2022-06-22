@@ -4,11 +4,21 @@
 
 - 🌱 I’m currently learning deep about the SDN technology, from controllers and their applications to the on-switch drivers and NOSes which support SDN interfaces.
 
-- 📫 How to reach me:
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/)
+-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 [![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinaebrahimi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaebrahimi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinaebrahimi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaebrahimi&layout=compact" />
+</a>
+
 
 <!--
 **sinaebrahimi/sinaebrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
