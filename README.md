@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning about SDN technology in more depth, from controllers and their applications to the on-switch drivers and NOSes which support SDN interfaces.
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/)
--  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sina_ebrahimi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (mailto:Ebrahimi.Sina.1372@gmail.com) [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)] () [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] () [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)] (https://scholar.google.com/citations?hl=en&user=Y9kFAooAAAAJ)
+
 
 
 [![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinaebrahimi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
