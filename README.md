@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- ⚡ I'm Sina Ebrahimi, a 29 y/o network solution specialist and researcher from Tehran, Iran.
+- ⚡ I'm Sina Ebrahimi, a 29 y/o network solution specialist and researcher based in Tehran, Iran.
 
 - 🌱 I’m currently learning about SDN technology in more depth, from controllers and their applications to the on-switch drivers and NOSes which support SDN interfaces.
 
