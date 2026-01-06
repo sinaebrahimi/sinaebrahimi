@@ -10,8 +10,8 @@ I'm a **PhD Researcher** at [Coventry University](https://www.coventry.ac.uk/res
 
 - 📡 **5G/6G Networks** — End-to-End Network Slicing, O-RAN, Network Automation
 - 🤖 **AI for Networks** — Multi-Agent DRL, Closed-loop Orchestration, Agentic Networking
-- 🧠 **Deep Reinforcement Learning** — PPO, Multi-Agent Systems, Hierarchical RL
-- ☁️ **NFV/SDN** — Resource Allocation, Network Function Virtualisation
+- 🧠 **Deep Reinforcement Learning** — PPO, SAC, Multi-Agent Systems, Hierarchical RL
+- ☁️ **Others** — Resource Allocation, Network Function Virtualisation, Software-Defined Networks, Edge Computing, Task Offloading
 
 ---
 
@@ -55,22 +55,9 @@ I'm a **PhD Researcher** at [Coventry University](https://www.coventry.ac.uk/res
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinaebrahimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaebrahimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinaebrahimi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinaebrahimi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahimi.sina.1372@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](mailto:sina.ebrahimi@ieee.org)
 [![University](https://img.shields.io/badge/Coventry%20University-00529B?style=for-the-badge&logoColor=white)](https://pureportal.coventry.ac.uk/en/persons/sina-ebrahimi)
