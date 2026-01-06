@@ -57,7 +57,7 @@ I'm a **PhD Researcher** at [Coventry University](https://www.coventry.ac.uk/res
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sinaebrahimi&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sinaebrahimi&theme=prussian&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
